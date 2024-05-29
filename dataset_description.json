@@ -14,5 +14,7 @@
     ],
     "DatasetDOI": "",
     "BIDSVersion": "1.7.0",
-    "EthicsApprovals": []
+    "EthicsApprovals": [
+        "All subjects provided written informed consent, and the study protocol was approved by the Ethics Committee of NTT."
+    ]
 }
