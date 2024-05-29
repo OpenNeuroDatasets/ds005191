@@ -9,5 +9,7 @@
         "Horikawa, T. Mind captioning: Evolving descriptive text of mental content from human brain activity. bioRxiv (2024). https://www.biorxiv.org/content/10.1101/2024.04.23.590673v1"
     ],
     "DatasetDOI": "10.18112/openneuro.ds005191.v1.0.1",
-    "BIDSVersion": "1.7.0"
+    "BIDSVersion": "1.7.0",
+    "EthicsApprovals": [
+        "All subjects provided written informed consent, and the study protocol was approved by the Ethics Committee of NTT."
 }
