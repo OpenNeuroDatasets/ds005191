@@ -17,7 +17,7 @@ Task event files for 'trainPerception' and 'testPerception' data shared common c
 
 - 'onset': onset time of an event (sec)
 - 'duration': duration of the event (sec)
-- 'trial_type': type of the event (2: Stimulus presentation block, 3: Evaluation block, -1, -2, and -3: Initial, inter-trial and end rest blocks)
+- 'trial_type': type of the event (2: Stimulus presentation block, 3: Evaluation block, -1: Initial rest block, -2: Inter-trial rest block, and -3: End rest block)
 - 'stimID': video file name presented in a stimulus block (1-2196)
 - 'stimLabel': stimulus video index of a presented stimulus (1-2180)
 - 'evalScore01-05': five scores evaluated by the subject
